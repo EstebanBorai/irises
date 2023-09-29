@@ -1,13 +1,7 @@
 <div>
-  <h1 align="center">Docker Machine Learning</h1>
-  <h4 align="center">A template for Machine Learning projects with Docker</h4>
+  <h1 align="center">Iris Flower</h1>
+  <h4 align="center">Iris Flower Dataset from R.A. Fisher 1936 Analysis</h4>
 </div>
-
-## Motivation
-
-Spin up Machine Learning projects with ease, avoiding a virtual environment
-setup by using Docker, extending compatibility for collaboration by having
-a operative system agnostic environment.
 
 ## Run Locally
 
@@ -28,4 +22,10 @@ docker compose down
 
 > A [Justfile][1] is included!
 
+## Sources
+
+- The Iris Flowers dataset is downloaded from [UC Irvine Machine Learning
+Repository][2].
+
 [1]: https://just.systems
+[2]: https://archive.ics.uci.edu/dataset/53/iris
